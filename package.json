@@ -1,0 +1,27 @@
+{
+  "name": "cafofo",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de aulas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mategoncalves/Caff.git"
+  },
+  "keywords": [
+    "Cafofo"
+  ],
+  "author": "Mateus Goncalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mategoncalves/Caff/issues"
+  },
+  "homepage": "https://github.com/mategoncalves/Caff#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongojs": "^3.1.0"
+  }
+}
